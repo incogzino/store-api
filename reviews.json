@@ -1,0 +1,75 @@
+[
+  {
+    "productId": 5,
+    "reviewId": 1,
+    "customer": "Michelle Chengahomwe",
+    "productName": "Showtime Shades",
+    "comment": "The 'SHOWTIME SHADES' are the BEST glasses i've ever bought!"
+    
+  },
+  {
+    "productId": 6,
+    "reviewId": 2,
+    "customer": "Vienna Calippsie",
+    "productName": "Luh Frost",
+    "comment": "Honestly... I need more LUH FROST"
+    
+  },
+  {
+    "productId": 1,
+    "reviewId": 3,
+    "customer": "Nikki Kaiser",
+    "productName": "Aracnia Zip Hoodie",
+    "comment": "The ARACNIA ZIP HOODIE completed my wardrobe fr"
+    
+  },
+  {
+    "productId": 4,
+    "reviewId": 4,
+    "customer": "Luke Akoto",
+    "productName": "Steez Joggers",
+    "comment": "Not having OutOfOrder is out of orderrrrrr"
+    
+  },
+  {
+    "productId": 2,
+    "reviewId": 5,
+    "customer": "JaJa Binks",
+    "productName": "Steez Joggers 2.0",
+    "comment": "If i had to pick a favourite brand it would have to be OutOfOrder no question"
+    
+  },
+  {
+    "productId": 3,
+    "reviewId": 6,
+    "customer": "Borja",
+    "productName": "'Girls Love Lies' reversed tee",
+    "comment": "OutOfOrder is the new wave. Cop now or you'll regret it bro"
+    
+  },
+  {
+    "productId": 7,
+    "reviewId": 7,
+    "customer": "Miguel Rodriguez",
+    "productName": "'Jail Mouse' Poster",
+    "comment": "Best decoration piece for my room"
+    
+  },
+  {
+    "productId": 8,
+    "reviewId": 8,
+    "customer": "Valentyna Izalea",
+    "productName": "Venom",
+    "comment": "The watch goes crazy, might have to get 2"
+    
+  },
+  {
+    "productId": 9,
+    "reviewId": 9,
+    "customer": "Christian Holmes",    
+    "productName": "Vamp",
+    "comment": "Got 3 of these for the gang"
+    
+  }
+ 
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "Item": "Clothing",
+    "productName": "Aracnia Zip Hoodie",
+    "Available": true,
+    "releaseDate": "2023-6-19",
+    "productId": 1,
+    "price": "300"
+  },
+  {
+    "Item": "Clothing",
+    "productName": "Steez Joggers 2.0",
+    "Available": true,
+    "releaseDate": "2023-2-3",
+    "productId": 2,
+    "price": "190"
+    
+  },
+  {
+    "Item": "Clothing",
+    "productName": "'Girls Love Lies' reversed tee",
+    "Available": true,
+    "releaseDate": "2023-2-5",
+    "productId": 3,
+    "price": "150"
+  },
+  {
+    "Item": "Clothing",
+    "productName": "Steez Joggers",
+    "Available": true,
+    "releaseDate": "2023-4-14",
+    "productId": 4,
+    "price": "175"
+  },
+  {
+    "Item": "Accessories",
+    "productName": "Showtime Shades",
+    "Available": true,
+    "releaseDate" : "2023-5-4",
+    "productId": 5,
+    "price": "100"
+  },
+  {
+    "Item": "Accessories",
+    "productName": "Luh Frost",
+    "Available": true,
+    "releaseDate": "2023-3-10",
+    "productId": 6,
+    "price": "300"
+  },
+  {
+    "Item": "Accessories",
+    "productName": "'Jail Mouse' Poster",
+    "Available": true,
+    "releaseDate": "2023-1-11",
+    "productId": 7,
+    "price": "50"
+
+  },
+  {
+    "Item": "Accessories",
+    "productName": "Venom",
+    "Available": true,
+    "releaseDate": "2023-6-9",
+    "productId": 8,
+    "price": "285"
+  },
+  {
+    "Item": "Accessories",
+    "productName": "Vamp",
+    "Available": true,
+    "releaseDate": "2023-8-25",
+    "productId": 9,
+    "price": "100"
+  },
+  {
+    "Item": "Clothing",
+    "productName": "Legal Eagle Hoodie",
+    "Available": true,
+    "releaseDate": "2024-10-06",
+    "productId": 10,
+    "price": "180"
+  
+},
+{
+    "Item": "Accessories",
+    "productName": "'0x0x0' belt",
+    "Available": true,
+    "releaseDate": "2024-08-18",
+    "productId": 11,
+    "price": "120"
+ 
+},
+{
+    "Item": "Accessories",
+    "productName": "'OOO' book figurines ",
+    "Available": false,
+    "releaseDate": "2024-04-07",
+    "productId": 12,
+    "price": "80"
+  
+},
+{
+    "Item": "Clothing",
+    "productName": "'000' messy library hoodie",
+    "Available": true,
+    "releaseDate": "2024-02-14",
+    "productId": 13,
+    "price": "150"
+  
+}
+ 
+]
