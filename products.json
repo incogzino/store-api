@@ -1,6 +1,7 @@
 [
   {
     "Item": "Clothing",
+    "image":"https://ibb.co/mGTqhYP",
     "productName": "Aracnia Zip Hoodie",
     "Available": true,
     "releaseDate": "2023-6-19",
@@ -9,6 +10,7 @@
   },
   {
     "Item": "Clothing",
+    "image":"https://ibb.co/f1gYNFV",
     "productName": "Steez Joggers 2.0",
     "Available": true,
     "releaseDate": "2023-2-3",
@@ -18,6 +20,7 @@
   },
   {
     "Item": "Clothing",
+    "image":"https://ibb.co/hsvBXbC",
     "productName": "'Girls Love Lies' reversed tee",
     "Available": true,
     "releaseDate": "2023-2-5",
@@ -26,6 +29,7 @@
   },
   {
     "Item": "Clothing",
+    "image":"https://ibb.co/br3YGsx",
     "productName": "Steez Joggers",
     "Available": true,
     "releaseDate": "2023-4-14",
@@ -34,6 +38,7 @@
   },
   {
     "Item": "Accessories",
+    "image":"https://ibb.co/mNwFpgX",
     "productName": "Showtime Shades",
     "Available": true,
     "releaseDate" : "2023-5-4",
@@ -42,6 +47,7 @@
   },
   {
     "Item": "Accessories",
+    "image":"https://ibb.co/QkDsPkH",
     "productName": "Luh Frost",
     "Available": true,
     "releaseDate": "2023-3-10",
@@ -50,6 +56,7 @@
   },
   {
     "Item": "Accessories",
+    "image":"https://ibb.co/ngtLHcv",
     "productName": "'Jail Mouse' Poster",
     "Available": true,
     "releaseDate": "2023-1-11",
@@ -59,6 +66,7 @@
   },
   {
     "Item": "Accessories",
+    "image":"https://ibb.co/SmV8rN8",
     "productName": "Venom",
     "Available": true,
     "releaseDate": "2023-6-9",
@@ -67,6 +75,7 @@
   },
   {
     "Item": "Accessories",
+    "image":"https://ibb.co/GMV2fVT",
     "productName": "Vamp",
     "Available": true,
     "releaseDate": "2023-8-25",
@@ -75,6 +84,7 @@
   },
   {
     "Item": "Clothing",
+    "image":"https://ibb.co/yRg05Fs",
     "productName": "Legal Eagle Hoodie",
     "Available": true,
     "releaseDate": "2024-10-06",
@@ -84,6 +94,7 @@
 },
 {
     "Item": "Accessories",
+    "image":"https://ibb.co/qFNwDBX",
     "productName": "'0x0x0' belt",
     "Available": true,
     "releaseDate": "2024-08-18",
@@ -93,6 +104,7 @@
 },
 {
     "Item": "Accessories",
+    "image":"https://ibb.co/MsX2BRv",
     "productName": "'OOO' book figurines ",
     "Available": false,
     "releaseDate": "2024-04-07",
@@ -102,6 +114,7 @@
 },
 {
     "Item": "Clothing",
+    "image":"https://ibb.co/9nX0QpP",
     "productName": "'000' messy library hoodie",
     "Available": true,
     "releaseDate": "2024-02-14",

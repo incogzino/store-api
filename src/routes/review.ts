@@ -1,13 +1,13 @@
 import Review from "../models/reviewModel";
 import express, { Request, Response } from "express";
+import {createNewReview} from "../connectDB";
 
 const reviewsRouter = express.Router()
 
 reviewsRouter.post('/', async (req: Request, res: Response) => {
     console.log(req.body)
-    const newReview = new Review(req.body)
     
-    const createdReview = await newReview.save()
+    const createdReview = createNewReview(req.body.productId, req.body.customer, req.body.comment)
     
     res.status(201)
     res.json(createdReview)
