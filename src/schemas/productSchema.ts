@@ -3,6 +3,7 @@ import { Schema } from "mongoose"
 export interface IProducts {
 
     Item: string
+    image: string
     productName: string
     Available: boolean
     releaseDate: Date
@@ -11,6 +12,7 @@ export interface IProducts {
 
 const productSchema = new Schema<IProducts>({
     Item: { type: String, required: true},
+    image: {type: String, required:true},
     productName: { type: String, required: true},
     Available: {type: Boolean, default: false},
     releaseDate: {type: Date, required: true},

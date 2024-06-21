@@ -2,6 +2,7 @@ import { Schema } from "mongoose"
 
 interface IReview {
     customer: string,
+    image: string,
     productName: string,
     comment: string,
     reviewId: number,
@@ -11,6 +12,7 @@ interface IReview {
 
 const reviewSchema = new Schema<IReview>({
     customer: { type: String, required: true},
+    image: {type: String, required:true},
     productName: { type: String, required: true},
     comment: {type: String, required: true},
     reviewId: {type: Number, required: true, unique: true},
