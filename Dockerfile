@@ -8,8 +8,9 @@ RUN npm install
 
 COPY . .
 
-RUN npm config set user 0
-RUN npm config set unsafe-perm true
+RUN chmod -R a+x node_modules
+# RUN npm config set user 0
+# RUN npm config set unsafe-perm true
 
 EXPOSE 8080
 
