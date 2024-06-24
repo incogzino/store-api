@@ -6,120 +6,120 @@
     "Available": true,
     "releaseDate": "2023-6-19",
     "productId": 1,
-    "price": "300"
+    "price": "300.00"
   },
   {
     "Item": "Clothing",
-    "image":"https://ibb.co/f1gYNFV",
+    "image":"https://i.ibb.co/JB1RptW/steez-2-0-joggers.jpg",
     "productName": "Steez Joggers 2.0",
     "Available": true,
     "releaseDate": "2023-2-3",
     "productId": 2,
-    "price": "190"
+    "price": "190.00"
     
   },
   {
     "Item": "Clothing",
-    "image":"https://ibb.co/hsvBXbC",
+    "image":"https://i.ibb.co/R2W3hf7/GLL-reverse-tee.jpg",
     "productName": "'Girls Love Lies' reversed tee",
     "Available": true,
     "releaseDate": "2023-2-5",
     "productId": 3,
-    "price": "150"
+    "price": "150.00"
   },
   {
     "Item": "Clothing",
-    "image":"https://ibb.co/br3YGsx",
+    "image":"https://i.ibb.co/D7bmj9N/steez-joggers.jpg",
     "productName": "Steez Joggers",
     "Available": true,
     "releaseDate": "2023-4-14",
     "productId": 4,
-    "price": "175"
+    "price": "175.00"
   },
   {
     "Item": "Accessories",
-    "image":"https://ibb.co/mNwFpgX",
+    "image":"https://i.ibb.co/rsv8Rn9/Showtime-glasses.jpg",
     "productName": "Showtime Shades",
     "Available": true,
     "releaseDate" : "2023-5-4",
     "productId": 5,
-    "price": "100"
+    "price": "100.00"
   },
   {
     "Item": "Accessories",
-    "image":"https://ibb.co/QkDsPkH",
+    "image":"https://i.ibb.co/xs11g9X/Frosty-chain.jpg",
     "productName": "Luh Frost",
     "Available": true,
     "releaseDate": "2023-3-10",
     "productId": 6,
-    "price": "300"
+    "price": "300.00"
   },
   {
     "Item": "Accessories",
-    "image":"https://ibb.co/ngtLHcv",
+    "image":"https://i.ibb.co/1vjmDq5/Jail-mouse-store-logo.png",
     "productName": "'Jail Mouse' Poster",
     "Available": true,
     "releaseDate": "2023-1-11",
     "productId": 7,
-    "price": "50"
+    "price": "50.00"
 
   },
   {
     "Item": "Accessories",
-    "image":"https://ibb.co/SmV8rN8",
+    "image":"https://i.ibb.co/1ZTmgfn/Venom-watch.jpg",
     "productName": "Venom",
     "Available": true,
     "releaseDate": "2023-6-9",
     "productId": 8,
-    "price": "285"
+    "price": "285.00"
   },
   {
     "Item": "Accessories",
-    "image":"https://ibb.co/GMV2fVT",
+    "image":"https://i.ibb.co/HdBf08W/Vamp-ring.jpg",
     "productName": "Vamp",
     "Available": true,
     "releaseDate": "2023-8-25",
     "productId": 9,
-    "price": "100"
+    "price": "100.00"
   },
   {
     "Item": "Clothing",
-    "image":"https://ibb.co/yRg05Fs",
+    "image":"https://i.ibb.co/RSQ2PTH/aracnia-hoodie.jpg",
     "productName": "Legal Eagle Hoodie",
     "Available": true,
     "releaseDate": "2024-10-06",
     "productId": 10,
-    "price": "180"
+    "price": "180.00"
   
 },
 {
     "Item": "Accessories",
-    "image":"https://ibb.co/qFNwDBX",
+    "image":"https://i.ibb.co/dMdW5vL/000-belt.jpg",
     "productName": "'0x0x0' belt",
     "Available": true,
     "releaseDate": "2024-08-18",
     "productId": 11,
-    "price": "120"
+    "price": "120.00"
  
 },
 {
     "Item": "Accessories",
-    "image":"https://ibb.co/MsX2BRv",
+    "image":"https://i.ibb.co/gzpTxny/000-book-figure.jpg",
     "productName": "'OOO' book figurines ",
     "Available": false,
     "releaseDate": "2024-04-07",
     "productId": 12,
-    "price": "80"
+    "price": "80.00"
   
 },
 {
     "Item": "Clothing",
-    "image":"https://ibb.co/9nX0QpP",
+    "image":"https://i.ibb.co/GHmLcmm/000-library-hoodie.jpg",
     "productName": "'000' messy library hoodie",
     "Available": true,
     "releaseDate": "2024-02-14",
     "productId": 13,
-    "price": "150"
+    "price": "150.00"
   
 }
  

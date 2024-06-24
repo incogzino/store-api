@@ -3,7 +3,7 @@ import Product from "./models/productsModel";
 import Review from "./models/reviewModel";
 import { IProducts } from "./schemas/productSchema";
 
-const DB_URI = "mongodb://localhost:27017/OutOfOrder"
+const DB_URI = "mongodb+srv://mongo_db_service_user:D2OG2mRC445X7pfd@outoforder.p4idpea.mongodb.net/OutOfOrder?retryWrites=true&w=majority&appName=OutOfOrder"
 
 async function createNewProduct(Item: string, productName: string, Available: boolean, releaseDate: Date, productId: number) {
     const newProduct = new Product({
@@ -40,12 +40,3 @@ export async function createNewReview(productId:number,customer: string, comment
     return newReview;
 }
 
-async function main() {
-    await mongoose.connect(DB_URI)
-
-
-
-}
-
-main()
-    .catch(e => console.error(e))
