@@ -8,6 +8,7 @@ export interface IProducts {
     Available: boolean
     releaseDate: Date
     productId: Number
+    price: string
 }
 
 const productSchema = new Schema<IProducts>({
@@ -16,7 +17,8 @@ const productSchema = new Schema<IProducts>({
     productName: { type: String, required: true},
     Available: {type: Boolean, default: false},
     releaseDate: {type: Date, required: true},
-    productId: {type: Number, required: true, unique: true}
+    productId: {type: Number, required: true, unique: true},
+    price: { type: String, required: true}
 })
 
  

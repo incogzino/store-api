@@ -6,7 +6,8 @@ interface IReview {
     productName: string,
     comment: string,
     reviewId: number,
-    productId: number
+    productId: number,
+    price: string
 
 }
 
@@ -16,7 +17,8 @@ const reviewSchema = new Schema<IReview>({
     productName: { type: String, required: true},
     comment: {type: String, required: true},
     reviewId: {type: Number, required: true, unique: true},
-    productId: {type: Number, required: true}
+    productId: {type: Number, required: true},
+    price: { type: String, required: true}
 
     
 })
